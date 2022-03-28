@@ -5,5 +5,5 @@ for i,v in pairs(game:GetService("Workspace").Live:GetChildren()) do
         v.Humanoid.Health = die
 wait(.1)
 end
-    end
-        end
+end
+end
